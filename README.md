@@ -16,7 +16,7 @@ Ask Claude directly from the Alfred bar. Type `cld <question>`, get a markdown-r
    claude auth login
    ```
 
-That's it. Trigger with `⌘Space → cld <question>`.
+That's it. Trigger with `Alfred Hotkey → cld <question>`.
 
 ## Usage
 
