@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts (regenerated from source)
+# Comment out the next line if you want to commit the .alfredworkflow file
+# *.alfredworkflow
